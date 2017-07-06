@@ -61,7 +61,7 @@ app.get('/api/pictures', function (req, res, next){
      		avatar: 'majito.jpg'
      	},
      	url: 'andrea.jpg',
-     	likes: 14,
+     	likes: 12,
      	liked: false,
         createdAt: new Date().setDate(new Date().getDate() -5)
      },
